@@ -1,5 +1,5 @@
 const ITMO_BORN_YEAR = 1990;
-const ITMO_BORN_MONTH = 2; // used to be 3
+const ITMO_BORN_MONTH = 2; 
 const ITMO_BORN_DAY = 26;
 
 // Допишите код здесь, чтобы программа вывела на консоль ожидаемый результат
